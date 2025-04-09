@@ -5,6 +5,10 @@
   <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arshakyan11&label=Profile%20views&color=0e75b6&style=flat" alt="Arshakyan11" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966"></img>
