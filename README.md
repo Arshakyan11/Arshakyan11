@@ -7,6 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966"></img>
+
 <a href="https://www.linkedin.com/in/erikarshakyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikarshakyan" height="30" width="40" /></a>
 </p>
 
@@ -35,8 +37,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
-
 <p>🤝I'm open to contributing to cool frontend projects. Reach out if you have something interesting!</p>
 <p>🎯 My goal: Keep growing as a developer, contribute to meaningful projects, and maybe one day build a tool that helps thousands of devs!</p>
 
