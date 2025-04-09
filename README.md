@@ -1,5 +1,5 @@
-<div>
-<img align="center" alt="Coding" width="500" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif"></img>
+<div align="center">
+<img  alt="Coding" width="500" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif"></img>
 </div>
 <div>
   <h1 align="center">Hi 👋, I'm Erik</h1>
@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/erikarshakyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikarshakyan" height="30" width="40" /></a>
 </p>
 
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Js, React**
 - 📫 How to reach me: **erikarshakyan111@gmail.com**
 
@@ -33,7 +34,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-
 </p>
+
+
+<p>🤝I'm open to contributing to cool frontend projects. Reach out if you have something interesting!</p>
+<p>🎯 My goal: Keep growing as a developer, contribute to meaningful projects, and maybe one day build a tool that helps thousands of devs!</p>
 
 </div>
