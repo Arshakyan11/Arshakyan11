@@ -1,4 +1,6 @@
-![MasterHead](https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif)
+<div>
+<img align="right" alt="Coding" width="1000" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif"></img>
+</div>
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
