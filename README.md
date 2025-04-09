@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Js, React**
-- 📫 How to reach me: **erikarshakyan111@gmail.com**
+- 📫 How to reach me: **erikarshakyan555@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
