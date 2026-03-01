@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="700" alt="MasterHead" />
+</div>
+<br/>
 <div align="center">
 <img alt="Coding" width="500" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" />
 </div>
@@ -34,7 +39,7 @@ Frontend Developer Intern at EPAM Systems, contributing to real-world production
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Frontend**  
 React.js • TypeScript • JavaScript (ES6+) • React Router • Redux Toolkit • Material UI • Bootstrap • Responsive & Accessible Web Design
@@ -53,7 +58,7 @@ Vitest • Git • GitHub • Vite • Jira • Netlify • AWS (Basics) • Agi
 
 ---
 
-### 📈 Currently Improving
+###  Currently Improving
 
 - Deepening my backend integration skills with Node.js and Express  
 - Improving API design understanding and database interactions  
