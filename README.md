@@ -1,71 +1,124 @@
-
 <div align="center">
-  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="700" alt="MasterHead" />
+  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="700" alt="MasterHead"/>
 </div>
+
 <br/>
+
 <div align="center">
-<img alt="Coding" width="500" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" />
+  <img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" width="500"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">Frontend Developer focused on building clean, scalable, and user-friendly React applications</h3>
+# Hi 👋, I'm Erik Arshakyan
+
+### Full-Stack Developer | React • TypeScript • Node.js
+
+I'm a Full-Stack Developer with **1+ year of professional experience** building modern web applications using React and TypeScript. I enjoy creating scalable, maintainable software and continuously expanding my backend expertise with Node.js, Express, Prisma, and PostgreSQL.
+
+Currently gaining hands-on experience working on production projects while continuously improving my software engineering skills.
 
 <p align="center">
-Frontend Developer Intern at EPAM Systems, contributing to real-world production projects and continuously improving my skills in scalable React architecture.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arshakyan11&label=Profile%20views&color=0e75b6&style=flat" alt="Arshakyan11" />
+  <img src="https://komarev.com/ghpvc/?username=Arshakyan11&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🚀 I build scalable and maintainable frontend applications using React and TypeScript  
-- 🧠 I enjoy thinking about architecture, clean state management, and performance  
-- 🤝 I love working in Agile teams and collaborating with designers and backend developers  
-- 📫 Reach me at: **erikarshakyan555@gmail.com**
+- 🚀 1+ year of professional software development experience
+- ⚛️ Building scalable React & TypeScript applications
+- 🖥️ Developing REST APIs with Node.js & Express
+- 🗄️ Working with PostgreSQL, MongoDB and Prisma ORM
+- 🐳 Learning Docker, AWS and scalable architectures
+- 🤝 Enjoy collaborating in Agile teams
+- 📫 Reach me: **erikarshakyan555@gmail.com**
 
 ---
 
-### 🔗 Connect with me
+# 🔗 Connect with me
 
 <a href="https://www.linkedin.com/in/erikarshakyan/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 
-<br/><br/>
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- Redux Toolkit
+- React Router
+- Material UI
+- Bootstrap
+- HTML5
+- CSS3
+- SCSS (SASS)
+
+### Backend
+
+- Node.js
+- Express.js
+- REST API
+- Prisma ORM
+- PostgreSQL
+- MongoDB
+- JWT Authentication
+- Bcrypt
+- Redis
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Vite
+- Postman
+- Jira
+- Figma
+- Netlify
+- Render
+- Neon PostgreSQL
+- AWS (Fundamentals)
 
 ---
 
-### Tech Stack
+# 🌟 Featured Projects
 
-**Frontend**  
-React.js • TypeScript • JavaScript (ES6+) • React Router • Redux Toolkit • Material UI • Bootstrap • Responsive & Accessible Web Design
+### 🎬 Film Explorer
 
-**Styling & UI**  
-HTML5 • CSS3 • SCSS (SASS) • Figma  
+Full-stack movie application built with:
 
-**API & Networking**  
-REST APIs • Axios • Fetch API • Postman • JWT  
+- React + TypeScript
+- Node.js + Express
+- Prisma ORM
+- PostgreSQL
+- JWT Authentication
 
-**Backend Basics**  
-Node.js • Express.js • MongoDB • PostgreSQL  
+### 🍽️ Eriso Restaurant
 
-**Testing & Tools**  
-Vitest • Git • GitHub • Vite • Jira • Netlify • AWS (Basics) • Agile (Scrum)
+Restaurant website with full-stack functionality:
 
----
-
-###  Currently Improving
-
-- Deepening my backend integration skills with Node.js and Express  
-- Improving API design understanding and database interactions  
-- Focusing on performance optimization and writing more scalable React components  
-- Strengthening testing practices with modern frontend testing tools  
+- React
+- Node.js
+- MongoDB
+- Responsive UI
 
 ---
 
-🤝 Open to collaborating on meaningful frontend projects.  
-🎯 My long-term goal is to build products that developers actually love using.
+# 🌱 Currently Learning
+
+- Next.js
+- Advanced Node.js
+- System Design fundamentals
+- AWS Cloud
+- Performance Optimization
+- Clean Architecture
+
+---
+
+💼 Open to Junior Full-Stack and Frontend Developer opportunities.
+
+⭐ Always learning, always building.
