@@ -14,7 +14,7 @@
 
 I'm a Full-Stack Developer with **1+ year of professional experience** building modern web applications using React and TypeScript. I enjoy creating scalable, maintainable software and continuously expanding my backend expertise with Node.js, Express, Prisma, and PostgreSQL.
 
-Currently gaining hands-on experience working on production projects while continuously improving my software engineering skills.
+Currently contributing to production-level projects during my internship at EPAM Systems while continuously expanding my expertise in modern web development.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arshakyan11&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -56,16 +56,20 @@ Currently gaining hands-on experience working on production projects while conti
 - HTML5
 - CSS3
 - SCSS (SASS)
+- Responsive Web Design
+- Accessible Web Design
 
 ### Backend
 
 - Node.js
 - Express.js
-- REST API
+- REST APIs
 - Prisma ORM
 - PostgreSQL
 - MongoDB
+- Mongoose
 - JWT Authentication
+- OAuth2
 - Bcrypt
 - Redis
 
@@ -74,8 +78,11 @@ Currently gaining hands-on experience working on production projects while conti
 - Git
 - GitHub
 - Docker
+- Docker Compose
 - Vite
+- Vitest
 - Postman
+- Axios
 - Jira
 - Figma
 - Netlify
@@ -89,22 +96,21 @@ Currently gaining hands-on experience working on production projects while conti
 
 ### 🎬 Film Explorer
 
-Full-stack movie application built with:
+A full-stack movie streaming application built with React, Node.js, Express, Prisma, and PostgreSQL.
 
-- React + TypeScript
-- Node.js + Express
-- Prisma ORM
-- PostgreSQL
-- JWT Authentication
+🔗 Live Demo: https://film-explorer-one.netlify.app
+
+📂 Repository: https://github.com/Arshakyan11/film-explorer-fullstack
+
+---
 
 ### 🍽️ Eriso Restaurant
 
-Restaurant website with full-stack functionality:
+A full-stack restaurant application featuring JWT authentication, reservations, wishlist functionality, and a responsive user interface.
 
-- React
-- Node.js
-- MongoDB
-- Responsive UI
+🔗 Live Demo: https://eriso-restaurant.netlify.app
+
+📂 Repository: https://github.com/Arshakyan11/eriso-restaurant-fullstack
 
 ---
 
@@ -113,12 +119,20 @@ Restaurant website with full-stack functionality:
 - Next.js
 - Advanced Node.js
 - System Design fundamentals
-- AWS Cloud
 - Performance Optimization
 - Clean Architecture
 
 ---
 
-💼 Open to Junior Full-Stack and Frontend Developer opportunities.
+💼 Open to Junior Frontend, Backend, and Full-Stack Developer opportunities.
 
-⭐ Always learning, always building.
+🚀 Passionate about building scalable applications and continuously growing as a software engineer.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arshakyan11&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshakyan11&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
